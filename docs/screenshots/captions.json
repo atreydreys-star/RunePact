@@ -1,0 +1,42 @@
+[
+  {
+    "file": "RunePact-Addon-RU-01-Search.png",
+    "language": "ru",
+    "title": "Поиск подземелий и фильтры"
+  },
+  {
+    "file": "RunePact-Addon-RU-02-Recruitment.png",
+    "language": "ru",
+    "title": "Сбор группы и совместные заявки"
+  },
+  {
+    "file": "RunePact-Addon-RU-03-Raid.png",
+    "language": "ru",
+    "title": "Сбор рейда: роли, уровень предметов и рейтинг"
+  },
+  {
+    "file": "RunePact-Addon-RU-04-Animation-Settings.png",
+    "language": "ru",
+    "title": "Настройки анимаций аддона"
+  },
+  {
+    "file": "RunePact-Addon-EN-01-Search.png",
+    "language": "en",
+    "title": "Dungeon search and filters"
+  },
+  {
+    "file": "RunePact-Addon-EN-02-Recruitment.png",
+    "language": "en",
+    "title": "Group recruitment and joint applications"
+  },
+  {
+    "file": "RunePact-Addon-EN-03-Raid.png",
+    "language": "en",
+    "title": "Raid recruitment: roles, item level and rating"
+  },
+  {
+    "file": "RunePact-Addon-EN-04-Animation-Settings.png",
+    "language": "en",
+    "title": "Addon animation settings"
+  }
+]
